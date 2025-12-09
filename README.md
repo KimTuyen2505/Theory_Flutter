@@ -1,6 +1,6 @@
 # 🌟 Week 4 Flutter Exercises
 
- ![alt text](Screenshots\image-1.png)
+ ![alt text](./Screenshots/image-1.png)
 
  
  
@@ -59,34 +59,34 @@ dart run bin/random_sum_isolate.dart
 ```
 1. List View Exercise (Contact)
 
-![alt text](Screenshots\image-2.png)
+![alt text](./Screenshots/image-2.png)
 
 2. Grid View Exercise
 
-![alt text](Screenshots\image-3.png)
+![alt text](./Screenshots/image-3.png)
  
-![alt text](Screenshots\image-4.png)
+![alt text](./Screenshots/image-4.png)
 
 3. Shared Preferences Exercise
 
-![alt text](Screenshots\image-5.png)
+![alt text](./Screenshots/image-5.png)
 
 4. Asynchronous Programming Exercise
 
-![alt text](Screenshots\image-6.png)
+![alt text](./Screenshots/image-6.png)
 
-![alt text](Screenshots\image-7.png)
+![alt text](./Screenshots/image-7.png)
 
 5. Isolate Exercises
 Challenge 1 
 Displays the result once completed
 
-![alt text](Screenshots\image-9.png)
+![alt text](./Screenshots/image-9.png)
 
 Displays the number of digits
 
-![alt text](Screenshots\image-8.png)
+![alt text](./Screenshots/image-8.png)
 
 Challenge 2
 
-![alt text](Screenshots\image-10.png)
+![alt text](./Screenshots/image-10.png)
